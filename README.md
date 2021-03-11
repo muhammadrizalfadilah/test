@@ -1,9 +1,4 @@
 # melalioy
 Web E-Commerce Tiket Wisata By KTMI
 
-Author : 
-Cikal
-Leska
-Nur
-Mira
-Rizal
+Author : Cikal Hero, Leska Naturalisa, Nur Hikmah, Mira Asmara Hero, dan Rizal Fadilah
